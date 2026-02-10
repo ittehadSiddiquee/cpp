@@ -10,7 +10,7 @@ int main() {
 
  cin >> n;
 
- (n % 2 == 0) ? cout << "Even" << endl : cout << "Odd" << endl;
+ (n % 2 == 0) ? cout << "Yes" << endl : cout << "NO" << endl;
 
  
 
